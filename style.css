@@ -1,0 +1,110 @@
+/* Colors and fonts */
+
+
+body{
+	background-image: url(image/background-image.jfif);
+	font-family: 'Montserrat', sans-serif;
+	background-size: cover;
+}
+h5 {
+	font-size: 25px;
+	font-family: 'Zilla Slab Highlight', cursive;
+	color: black;
+}
+h1 {
+	font-size: 40px;
+	font-family: 'Playfair Display', serif;
+	color: black;
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	color:#3a2e42f5;
+}
+
+
+
+a {
+	text-decoration: none;
+	color: #4e7484d9;
+}
+a:hover {
+	color: #36b1e2d9;
+}
+.reseau {
+	: : 40px;
+}
+
+#wagon{
+	text-decoration
+}
+
+.uno {
+		text-align: center;
+	padding: 20px; 
+	margin: 40px 150px 40px 150px;
+	background-color: #ccc8c8;
+	  box-shadow: 0 10px 30px rgba(0,0,0,.8);
+}
+
+.dos {
+		text-align: center;
+	padding: 20px; 
+	margin: 40px 150px 40px 150px;
+	background-color: #ccc8c8;
+	  box-shadow: 0 10px 30px rgba(0,0,0,.8);
+}
+
+
+
+.fa-linkedin, .fa-facebook, .fa-instagram{
+	font-size: 70px;
+	letter-spacing: 20px;
+	color: #ece2d0;
+}
+
+.card-red{
+	text-align: center;
+	background-color: #ccc8c8;
+	margin: 40px 200px 40px 200px;
+	padding: 20px;
+	color: black;
+	font-weight: bold;
+	box-shadow: 0 10px 30px rgba(0,0,0,.8);
+}
+.card-blue{
+	text-align: center;
+	background-color: transparent;
+	margin: 40px 200px 40px 200px;
+	padding: 20px;
+	color: #ece2d0;
+	font-weight: bold;
+	box-shadow: 0 10px 30px rgba(0,0,0,.8);
+}
+
+}
+
+.container{
+	width: 1150px;
+	margin: 20px auto;
+}
+
+
+@media (max-width: 960px) {
+.container {
+width: 700px;
+}
+}
+@media (max-width: 720px) {
+.container {
+width: 500px;
+}
+}
+@media (max-width: 540px) {
+.container {
+width: 300px;
+}
+}
+
+
+
